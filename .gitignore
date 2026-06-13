@@ -1,0 +1,5 @@
+noVNC/
+*.log
+mslogon.log
+vnc.log
+__pycache__/
