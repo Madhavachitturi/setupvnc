@@ -2,6 +2,8 @@
 
 This project provides a portable VNC server setup on Windows using **UltraVNC**, with a web-based interface via **noVNC**. It is configured to support a separate **Virtual Display (Desktop 2)** that doesn't use your physical laptop screen.
 
+**GitHub Repository:** [https://github.com/Madhavachitturi/setupvnc](https://github.com/Madhavachitturi/setupvnc)
+
 ## Components Used
 
 1.  **VNC Server:** UltraVNC (`winvnc.exe`) - Configured in "Portable Mode".
